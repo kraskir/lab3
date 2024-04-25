@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1711611497 source:c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\textur.cpp
+	"textur.h"
+	<gl/gl.h>
+	"stb-master/stb_image.h"
+
+1711613318 source:c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_image.h"
+
+1674029754 c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029754 c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711612330 c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\textur.h
+	<windows.h>
+	<gl/gl.h>
+
+1711612953 source:c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\buttons.cpp
+	"buttons.h"
+	<gl/gl.h>
+
+1711612330 c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\buttons.h
+	<windows.h>
+	<gl/gl.h>
+
+1711612330 c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\texture.h
+	<windows.h>
+	<gl/gl.h>
+
+1711612953 source:c:\users\Кирилл\desktop\Красников лаб2 попытка 2\labtwo\texture.cpp
+	"texture.h"
+	"stb-master/stb_image.h"
+	<gl/gl.h>
+
+1713323065 source:c:\users\kraskir\desktop\kg-lab-2-main\kg-lab-2-main\labtwo\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_image.h"
+	"stb-master/stb_easy_font.h"
+
+1711632518 c:\users\kraskir\desktop\kg-lab-2-main\kg-lab-2-main\labtwo\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711632518 c:\users\kraskir\desktop\kg-lab-2-main\kg-lab-2-main\labtwo\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
